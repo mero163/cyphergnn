@@ -1,0 +1,6 @@
+{
+  "name": "ChainForensics AI",
+  "description": "Next-generation Cyber Forensic platform combining IF-GNN and Gemini AI for blockchain fraud detection and automated reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
