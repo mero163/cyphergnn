@@ -1,3 +1,4 @@
+![Architecture](if.png)
 # IF-GNN for Bitcoin Fraud Detection
 
 A lightweight Intuitionistic Fuzzy Graph Neural Network (IF-GNN)
