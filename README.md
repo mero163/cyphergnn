@@ -1,20 +1,60 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# IF-GNN for Bitcoin Fraud Detection
 
-# Run and deploy your AI Studio app
+A lightweight Intuitionistic Fuzzy Graph Neural Network (IF-GNN)
+for detecting fraudulent Bitcoin transactions using the Elliptic dataset.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/469eeaee-f6ac-4cfe-ad6a-55858504eec6
+## Overview
 
-## Run Locally
+This project combines:
 
-**Prerequisites:**  Node.js
+- Graph Neural Networks (GNNs)
+- Intuitionistic Fuzzy Logic
+- Bitcoin transaction graph analysis
 
+to improve fraud detection stability and reduce the effect of transaction obfuscation.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Features
+
+- Fraud / Licit transaction prediction
+- Unknown transaction uncertainty handling
+- Lightweight architecture
+- Temporal and Random split evaluation
+- Interactive demo website
+
+---
+
+## Tech Stack
+
+- Python
+- PyTorch
+- PyTorch Geometric
+- TypeScript
+- Vite
+
+---
+
+## Project Files
+
+- `if-gnns final.ipynb` → training & evaluation notebook
+- `IF_GNN_Bitcoin_Fraud_Detection_Report.pdf` → full report
+- Frontend files → interactive web interface
+
+---
+
+## Results
+
+The proposed IF-GNN achieved:
+
+- Higher stability than traditional GNNs
+- Better fraud detection under temporal evaluation
+- Efficient performance with a lightweight architecture
+
+---
+
+## Author
+
+Mary Alaa
