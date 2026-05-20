@@ -4,6 +4,11 @@
 A lightweight Intuitionistic Fuzzy Graph Neural Network (IF-GNN)
 for detecting fraudulent Bitcoin transactions using the Elliptic dataset.
 
+----
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-GNN-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Research-orange)
 ---
 
 ## Overview
